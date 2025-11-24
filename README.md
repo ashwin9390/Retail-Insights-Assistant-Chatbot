@@ -1,6 +1,7 @@
 📊 Retail Insights Assistant Chatbot
 
 Author: Ashwin H
+
 Date: 22-11-2025
 
 Overview
@@ -108,5 +109,6 @@ Add persistent conversational memory across sessions
 Extend data scale beyond in-memory DuckDB to distributed databases
 
 Improve toolset with additional analytics and data visualization modules
+
 
 Optimize query latency and agent response times
