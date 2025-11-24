@@ -1,0 +1,8 @@
+streamlit>=1.20.0
+pandas>=1.5.0
+duckdb>=0.7.1
+langchain>=0.0.139
+langchain-google-genai>=1.0.10
+langchain-classic>=0.0.139
+langchain-core>=0.0.139
+langchain-community>=0.0.139
